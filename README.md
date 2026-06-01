@@ -21,13 +21,6 @@ Sou estudante de **Ciência da Computação na Universidade Federal Fluminense (
 
 ---
 
-### Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isadireito&theme=dracula"/>
-</p>
----
-
  **Como me encontrar:**
 *   **LinkedIn:** https://www.linkedin.com/in/isadireito/
 *   **E-mail:** isa.martinsj3@gmail.com
