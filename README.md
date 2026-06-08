@@ -1,6 +1,6 @@
 # Olá, eu sou a Isabella Direito
 
-Sou estudante de **Ciência da Computação na Universidade Federal Fluminense (UFF)**, atualmente no 5º período. Sou apaixonada por tecnologia e estou direcionando meus estudos e carreira para a área de **Cibersegurança** e **Segurança de Aplicações (AppSec)**.
+Sou estudante de **Ciência da Computação na Universidade Federal Fluminense (UFF)**, atualmente no 5º período. Sou apaixonada por tecnologia e estou direcionando meus estudos e carreira para a área de **Cibersegurança** e **Inteligência Artificial**
 
 ---
 
@@ -15,7 +15,7 @@ Sou estudante de **Ciência da Computação na Universidade Federal Fluminense (
 
 ### No que estou focada agora?
 
-*   Estudando os fundamentos de **Segurança da Informação** e Pentest Web.
+*   Estudando os fundamentos de **Segurança da Informação**.
 *   Desenvolvendo projetos acadêmicos e práticos para consolidar conceitos de redes e arquitetura de software.
 *   Aplicando conceitos de IA no meu projeto de Iniciação Científica na UFF.
 
